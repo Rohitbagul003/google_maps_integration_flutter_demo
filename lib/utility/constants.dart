@@ -1,3 +1,3 @@
 class Constants {
-  static String googleApiKey = "AIzaSyB3EvAADD8qXgdxI5JhLc0dw226fM-n81g";
+  static String googleApiKey = "ADD YOUR GOOGLE API KEY";
 }
