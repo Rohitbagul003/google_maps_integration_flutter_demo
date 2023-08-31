@@ -10,7 +10,7 @@ This repository demonstrates the process of integrating Google Maps with a dark 
 - Validate user input for latitude and longitude to prevent errors.
 - Utilize Provider for efficient state management and smooth updates.
 
-![Google Maps Integration Demo](demo/google_maps_integration.gif)
+[demo/google_maps_integration.gif](https://media.giphy.com/media/N9f6uA1nMWl3JFN5Oz/giphy.gif)
 
 ## Getting Started
 
