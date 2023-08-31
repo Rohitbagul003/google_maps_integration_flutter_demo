@@ -1,16 +1,21 @@
-# merlin_foyer_app
+# Google Maps Integration in Flutter
 
-A new Flutter project.
+This repository demonstrates the process of integrating Google Maps with a dark theme into your Flutter application. The project showcases how to add markers to the map, save them to a local database, and manage the state using Provider for efficient state management. Shared Preferences are utilized for local storage, providing a seamless experience for users to interact with the map.
+
+## Features
+
+- Display Google Maps with a sleek dark theme for an enhanced user experience.
+- Add markers to the map by manually entering latitude and longitude.
+- Edit and delete markers as needed to customize the map.
+- Validate user input for latitude and longitude to prevent errors.
+- Utilize Provider for efficient state management and smooth updates.
+
+![Google Maps Integration Demo](demo/google_maps_integration.gif)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository: `git clone https://github.com/your-username/google-maps-flutter.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore the code and see how Google Maps integration, dark theme, marker management, and local storage are implemented in this Flutter application. Happy mapping! 🗺️🌙
